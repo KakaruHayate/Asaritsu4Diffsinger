@@ -13,7 +13,7 @@
 
 中文：[opencpop©️Opencpop Team][1]；
 
-日语：[f00001j_yoko©️NITech]；
+日语：[f00001j_yoko©️NITech][3]；
 
 感谢[依旧在星空下等你][4]对部分标注的修正。
 
