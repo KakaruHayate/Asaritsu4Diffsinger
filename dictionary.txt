@@ -1,3 +1,4 @@
+EP	EP
 a	a
 ai	ai
 an	an
@@ -802,3 +803,26 @@ tyo_/.	ty_/. o_/.
 りゃ	ry_/. a_/.
 りゅ	ry_/. u_/.
 りょ	ry_/. o_/.
+_m	_m
+.b	.b
+.d	.d
+.g	.g
+huanr	h uanr
+quanr	q uanr
+zuanr	z uanr
+chuanr	ch uanr
+shuanr	sh uanr
+luanr	l uanr
+guanr	g uanr
+kuanr	k uanr
+juanr	j uanr
+xuanr	x uanr
+liar	l iar
+niar	n iar
+biar	b iar
+miar	m iar
+diar	d iar
+tiar	t iar
+piar	p iar
+qiar	q iar
+jiar	j iar
