@@ -809,6 +809,8 @@ tyo_/.	ty_/. o_/.
 りゃ	ry_/. a_/.
 りゅ	ry_/. u_/.
 りょ	ry_/. o_/.
+ap	ap
+mm	mm
 _m	_m
 _n	_n
 .b	.b
