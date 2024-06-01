@@ -808,6 +808,7 @@ _n	_n
 .b	.b
 .d	.d
 .g	.g
+.k	.k
 huanr	h uanr
 quanr	q uanr
 zuanr	z uanr
