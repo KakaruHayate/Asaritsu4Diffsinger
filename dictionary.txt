@@ -697,6 +697,9 @@ nyo_/.	ny_/. o_/.
 hya_/.	hy_/. a_/.
 hyu_/.	hy_/. u_/.
 hyo_/.	hy_/. o_/.
+pya_/.	py_/. a_/.
+pyu_/.	py_/. u_/.
+pyo_/.	py_/. o_/.
 mya_/.	my_/. a_/.
 myu_/.	my_/. u_/.
 myo_/.	my_/. o_/.
