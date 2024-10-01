@@ -15,6 +15,8 @@
 
 日语：[f00001j_yoko©️NITech][3]；
 
+英语：无（[BiSinger][https://github.com/BiSinger-SVS/BiSinger]方案）
+
 感谢[依旧在星空下等你][4]对部分标注的修正。
 
 # TODO
