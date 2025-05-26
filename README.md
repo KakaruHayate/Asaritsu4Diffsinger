@@ -3,9 +3,16 @@
 
 **目前状态：正式发布**
 
-一个[Diffsinger V2(OpenVPI)][2]多语言（中文/日文/英文原生）声库，包括多种声线。
+一个[Diffsinger(OpenVPI)][2]多语言（中文/日文/英文原生）声库，包括多种声线。
 
 中之人：[浅律Asaritsu][1]
+
+注：训练使用了开源数据集[f00001j_yoko©️NITech](http://hts.sp.nitech.ac.jp/?Release%20Archive)，并可能与某些其他声库共享权重
+
+注2：如下使用方式是不被允许的
+ - 进行各种方式的模型蒸馏
+ - 制作政治宣传、宗教布教有关的作品
+ - 制作其他可能被人反感的作品
 
 [1]: https://space.bilibili.com/6483585
 [2]: https://github.com/openvpi/DiffSinger
